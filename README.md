@@ -176,7 +176,7 @@ TODO: move config to the dataset, so we have everything related to a dataset in 
 These are results from adult dataset using LEOSS config
 
 ![](https://github.com/iaBIH/arxPipline/blob/main/iaPipline/resources/MaxRisks.png?raw=true)
-![](https://github.com/iaBIH/arxPipline/blob/main/iaPipline/resources/RiskTable.png?raw=true)
+![](https://github.com/iaBIH/ArxPy/blob/main/resources/RiskTable.png?raw=true)
 ![](https://github.com/iaBIH/arxPipline/blob/main/iaPipline/resources/distribution_age.png?raw=true)
 ![](https://github.com/iaBIH/arxPipline/blob/main/iaPipline/resources/contingencyMap_age_education.png?raw=true)
 

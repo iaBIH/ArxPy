@@ -1,0 +1,31 @@
+  Equivalence classes:
+     - Average size: 1.0
+     - Num classes : 200.0
+     - Histogram   :
+        [Size: 1, count: 200]
+ * Risk estimates:
+   - Sample-based measures
+       + Average risk     : 1.0
+       + Lowest risk      : 1.0
+       + Tuples affected  : 1.0
+       + Highest risk     : 1.0
+       + Tuples affected  : 1.0
+     + Max Risk Prosecutor: 1.0
+     + Max Risk Journalist: 1.0
+     + Max Risk Marketer  : 1.0
+       + MaxClassSize     : 1
+       + AverageClassSize : 1.0
+       + MinClassSize     : 1
+       + SuppressedRecords: 0
+       + Ambiguity          : 1.0
+       + AECS               : 1.0
+       + Discernibility     : 1.0
+       + Granularity        : 1.0
+       + MSE                : 1.0
+       + Attribute-level SE : 1.0
+       + Non-Uniform Entropy: 1.0
+       + Precision          : 1.0
+       + Record-level SE    : 1.0
+       + Sample uniqueness: 1.0
+     - Population-based measures
+       + Population unqiueness (Zayatz): 1.0

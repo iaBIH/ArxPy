@@ -1,0 +1,64 @@
+  Equivalence classes:
+     - Average size: 1.54661060404
+     - Num classes : 19502.0
+     - Histogram   :
+        [Size: 1, count: 15512]
+        [Size: 2, count: 2098]
+        [Size: 3, count: 754]
+        [Size: 4, count: 375]
+        [Size: 5, count: 189]
+        [Size: 6, count: 155]
+        [Size: 7, count: 97]
+        [Size: 8, count: 73]
+        [Size: 9, count: 39]
+        [Size: 10, count: 37]
+        [Size: 11, count: 29]
+        [Size: 12, count: 18]
+        [Size: 13, count: 23]
+        [Size: 14, count: 14]
+        [Size: 15, count: 15]
+        [Size: 16, count: 9]
+        [Size: 17, count: 11]
+        [Size: 18, count: 10]
+        [Size: 19, count: 10]
+        [Size: 20, count: 5]
+        [Size: 21, count: 3]
+        [Size: 22, count: 4]
+        [Size: 23, count: 3]
+        [Size: 24, count: 2]
+        [Size: 25, count: 1]
+        [Size: 26, count: 3]
+        [Size: 27, count: 5]
+        [Size: 29, count: 1]
+        [Size: 30, count: 2]
+        [Size: 32, count: 1]
+        [Size: 34, count: 1]
+        [Size: 35, count: 1]
+        [Size: 36, count: 1]
+        [Size: 45, count: 1]
+ * Risk estimates:
+   - Sample-based measures
+       + Average risk     : 0.646575160798
+       + Lowest risk      : 0.0222222222222
+       + Tuples affected  : 0.00149194350507
+       + Highest risk     : 1.0
+       + Tuples affected  : 0.514289503349
+     + Max Risk Prosecutor: 1.0
+     + Max Risk Journalist: 1.0
+     + Max Risk Marketer  : 0.646575160798
+       + MaxClassSize     : 45
+       + AverageClassSize : 1.54661060404
+       + MinClassSize     : 1
+       + SuppressedRecords: 0
+       + Ambiguity          : 1.0
+       + AECS               : 1.0
+       + Discernibility     : 1.0
+       + Granularity        : 1.0
+       + MSE                : 1.0
+       + Attribute-level SE : 1.0
+       + Non-Uniform Entropy: 1.0
+       + Precision          : 1.0
+       + Record-level SE    : 1.0
+       + Sample uniqueness: 0.514289503349
+     - Population-based measures
+       + Population unqiueness (Zayatz): 0.26456471815

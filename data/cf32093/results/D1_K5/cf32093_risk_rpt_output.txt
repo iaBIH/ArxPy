@@ -1,0 +1,63 @@
+  Equivalence classes:
+     - Average size: 20.8767409471
+     - Num classes : 1436.0
+     - Histogram   :
+        [Size: 5, count: 66]
+        [Size: 6, count: 48]
+        [Size: 7, count: 33]
+        [Size: 8, count: 32]
+        [Size: 9, count: 30]
+        [Size: 10, count: 51]
+        [Size: 11, count: 58]
+        [Size: 12, count: 49]
+        [Size: 13, count: 64]
+        [Size: 14, count: 75]
+        [Size: 15, count: 70]
+        [Size: 16, count: 42]
+        [Size: 17, count: 65]
+        [Size: 18, count: 39]
+        [Size: 19, count: 35]
+        [Size: 20, count: 32]
+        [Size: 21, count: 29]
+        [Size: 22, count: 29]
+        [Size: 23, count: 31]
+        [Size: 24, count: 41]
+        [Size: 25, count: 34]
+        [Size: 26, count: 26]
+        [Size: 27, count: 40]
+        [Size: 28, count: 42]
+        [Size: 29, count: 29]
+        [Size: 30, count: 31]
+        [Size: 31, count: 27]
+        [Size: 32, count: 28]
+        [Size: 33, count: 31]
+        [Size: 34, count: 32]
+        [Size: 35, count: 24]
+        [Size: 36, count: 24]
+        [Size: 37, count: 18]
+        [Size: 38, count: 24]
+        [Size: 39, count: 21]
+        [Size: 40, count: 20]
+        [Size: 41, count: 17]
+        [Size: 42, count: 14]
+        [Size: 43, count: 8]
+        [Size: 44, count: 5]
+        [Size: 45, count: 7]
+        [Size: 46, count: 4]
+        [Size: 48, count: 2]
+        [Size: 49, count: 2]
+        [Size: 50, count: 2]
+        [Size: 51, count: 1]
+        [Size: 53, count: 2]
+        [Size: 54, count: 1]
+        [Size: 57, count: 1]
+   * Risk estimates:
+     - Sample-based measures
+       + Average risk     : 0.0479001968044
+       + Lowest risk      : 0.0175438596491
+       + Tuples affected  : 0.00190133093165
+       + Highest risk     : 0.2
+       + Tuples affected  : 0.0110077053938
+       + Sample uniqueness: 0.0
+     - Population-based measures
+       + Population unqiueness (Zayatz): 0.0

@@ -1,0 +1,47 @@
+  Statistics :
+       Summary: {u'education': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=3
+ - mode=Higher education
+], u'workclass': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=2
+ - mode=Non-Government
+], u'occupation': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=3
+ - mode=Technical
+], u'salary-class': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=2
+ - mode=<=50K
+], u'race': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=5
+ - mode=White
+], u'native-country': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=5
+ - mode=North America
+], u'sex': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=2
+ - mode=Male
+], u'marital-status': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=6
+ - mode=Married-civ-spouse
+], u'age': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=27609
+ - distinctNumberOfValues=5
+ - mode=20-39
+]}

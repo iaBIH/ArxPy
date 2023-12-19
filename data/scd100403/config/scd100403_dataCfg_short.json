@@ -1,0 +1,32 @@
+{
+  "dataConfigArray": [
+    {
+      "config_name": "D1",
+      "ids": [   0,      1,     2,        3,         4,     5,        6,             7,          8,       9,     10],
+      "names": ["idx", "age", "state", "zipCode",  "sex", "race", "birthDate", "diagDate","deathDate","CBC:g/dL","RC:%"],
+      "types": [ "id",   "q",    "q",     "q",      "q",   "q",     "q",           "q",        "q",    "q",       "q"],
+      "transformation": ["g", "g", "g", "g", "g", "g", "g", "g", "g","g","g"],
+      "transformationFunction": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA","NA","NA"],
+      "transformationIgnoreMissingData": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA","NA","NA"],
+      "transformationMinMax": [[-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1],[-1, -1],[-1, -1]],
+      "dataTypes": ["int", "int", "s", "s", "s", "s", "s", "s", "s", "dec", "dec"],
+      "dataFormats": ["d", "d", "d", "d", "d", "d", "yyyyMMDD", "yyyyMMDD", "yyyyMMDD","d","d"],
+      "weights": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0],
+      "targetVariables": [0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0]
+    },
+    {
+      "config_name": "D2",
+      "ids": [   0,      1,     2,        3,         4,     5,        6,             7,          8,       9,     10],
+      "names": ["idx", "age", "state", "zipCode",  "sex", "race", "birthDate", "diagDate","deathDate","CBC:g/dL","RC:%"],
+      "types": [ "id",   "q",    "q",     "q",      "q",   "s",     "q",           "q",        "q",    "q",       "q"],
+      "transformation": ["g", "g", "g", "g", "g", "g", "g", "g", "g","g","g"],
+      "transformationFunction": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA","NA","NA"],
+      "transformationIgnoreMissingData": ["NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA", "NA","NA","NA"],
+      "transformationMinMax": [[-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1], [-1, -1],[-1, -1],[-1, -1]],
+      "dataTypes": ["int", "int", "s", "s", "s", "s", "s", "s", "s", "dec", "dec"],
+      "dataFormats": ["d", "d", "d", "d", "d", "d", "yyyyMMDD", "yyyyMMDD", "yyyyMMDD","d","d"],
+      "weights": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1.0, 1.0],
+      "targetVariables": [0, 0, 0, 0, 0, 0, 0, 0, 0,0, 0]
+    }
+  ]
+}

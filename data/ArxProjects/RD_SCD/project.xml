@@ -1,0 +1,16 @@
+<project>
+	<name>arxRD</name>
+	<separator>;</separator>
+	<escape>&quot;</escape>
+	<quote>&quot;</quote>
+	<linebreak>WINDOWS</linebreak>
+	<description></description>
+	<locale>EN</locale>
+	<historySize>200</historySize>
+	<snapshotSizeDataset>0.2</snapshotSizeDataset>
+	<snapshotSizeSnapshot>0.8</snapshotSizeSnapshot>
+	<initialNodesInViewer>100</initialNodesInViewer>
+	<maxNodesInViewer>700</maxNodesInViewer>
+	<selectedAttribute>RC:%</selectedAttribute>
+	<inputBytes>7693595</inputBytes>
+</project>

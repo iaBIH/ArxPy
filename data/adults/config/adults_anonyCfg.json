@@ -1,0 +1,115 @@
+{ "comment":" we will have arrays of different configs to run multiple experiments if needed",
+  "configArray": [
+    {"config_name": "D1_K3",
+     "Algorithm": "OPTIMAL",
+     "SuppressionLimit": 1.0,
+     "localGeneralization": true,
+     "localGeneralizationIterations": 100,
+     "heuristicSearchStepLimit": 1000,
+     "privacyModelList": [ {"modelName": "KAnonymity",
+                            "k"       : 3
+                            }
+                         ],
+     "qualityModel": { "Name":"LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN",
+                       "parameter": 0.5
+                      },
+     "riskMetric":   { "Name":"ReidentificationRisk",
+                       "parameter": 0.5
+                     }                          
+    },
+    {"config_name": "D1_K5",
+     "Algorithm": "OPTIMAL",
+     "SuppressionLimit": 1.0,
+     "localGeneralization": true,
+     "localGeneralizationIterations": 100,
+     "heuristicSearchStepLimit": 1000,
+     "privacyModelList": [ {"modelName": "KAnonymity",
+                            "k"       : 5
+                          }
+                        ],
+     "qualityModel": { "Name":"LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN",
+                       "parameter": 0.5
+                      },                            
+      "riskMetric": { "Name":"ReidentificationRisk",
+                      "parameter": 0.5
+                    }                         
+    },
+    {"config_name": "D1_Identity",
+    "Algorithm": "BEST_EFFORT_TOP_DOWN",
+    "SuppressionLimit": 1.0,
+    "localGeneralization": true,
+    "localGeneralizationIterations": 100,
+    "heuristicSearchStepLimit": 1000,
+    "privacyModelList": [ {"modelName": "KAnonymity",
+                            "k"       : 1
+                            }
+                        ],
+    "qualityModel": { "Name":"LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN",
+                      "parameter": 0.5
+                      },                            
+      "riskMetric": { "Name":"ReidentificationRisk",
+                      "parameter": 0.5
+                    }                         
+    },
+    {"config_name": "D1_Avg9",
+      "Algorithm": "BEST_EFFORT_TOP_DOWN",
+      "SuppressionLimit": 1.0,
+      "localGeneralization": true,
+      "localGeneralizationIterations": 100,
+      "heuristicSearchStepLimit": 1000,
+      "privacyModelList": [ {"modelName": "AverageReidentificationRisk",
+                              "averageRisk"       : 0.0909
+                              }
+                          ],
+      "qualityModel": { "Name":"LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN",
+                        "parameter": 0.5
+                        },                            
+        "riskMetric": { "Name":"ReidentificationRisk",
+                        "parameter": 0.5
+                      }                         
+    },
+    {"config_name": "D1_PITMAN",
+      "Algorithm": "BEST_EFFORT_TOP_DOWN",
+      "SuppressionLimit": 1.0,
+      "localGeneralization": true,
+      "localGeneralizationIterations": 100,
+      "heuristicSearchStepLimit": 1000,
+      "privacyModelList": [ {"modelName": "PopulationUniqueness",
+                            "riskThreshold": 0.01,
+                            "populationUniquenessModel": "PITMAN",
+                            "region": "USA"
+                            }
+                        ],
+      "qualityModel": { "Name":"LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN",
+                        "parameter": 0.5
+                      },                            
+      "riskMetric": { "Name":"ReidentificationRisk",
+                      "parameter": 0.5
+                    }                         
+    },
+   {"config_name": "D2_LEOSS",
+    "Algorithm": "BEST_EFFORT_TOP_DOWN",
+    "SuppressionLimit": 1.0,
+    "localGeneralization": true,
+    "localGeneralizationIterations": 100,
+    "heuristicSearchStepLimit": 1000,
+    "privacyModelList": [ {"modelName": "KAnonymity",
+                            "k"       : 11
+                            },
+                          {"modelName": "HierarchicalDistanceTCloseness",
+                            "t": 0.5,
+                            "attribute": "education"
+                          }
+                        ],
+    "qualityModel": { "Name":"LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN",
+                      "parameter": 0.5
+                      },                            
+      "riskMetric": { "Name":"ReidentificationRisk",
+                      "parameter": 0.5
+                    }                         
+  }
+
+  ]
+}
+
+ 

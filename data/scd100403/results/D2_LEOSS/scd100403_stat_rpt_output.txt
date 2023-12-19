@@ -1,0 +1,57 @@
+  Statistics :
+       Summary: {u'zipCode': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=79
+ - mode=95***
+], u'race': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=100403
+ - distinctNumberOfValues=3
+ - mode=African-American
+], u'sex': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=0
+ - distinctNumberOfValues=0
+ - mode=NULL
+], u'deathDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=1
+ - mode=
+], u'CBC:g/dL': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=0
+ - distinctNumberOfValues=0
+ - mode=NULL
+], u'RC:%': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=1
+ - mode=[2, 3[
+], u'state': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=34
+ - mode=California
+], u'idx': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=0
+ - distinctNumberOfValues=0
+ - mode=NULL
+], u'diagDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=89
+ - mode=1994
+], u'birthDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=89
+ - mode=1994-01-08
+], u'age': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=71574
+ - distinctNumberOfValues=89
+ - mode=29
+]}

@@ -1,0 +1,201 @@
+idx;age;state;zipCode;sex;race;birthDate;diagDate;deathDate;CK:unit/L
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;European-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;Others;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;Others;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;European-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;European-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;European-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;African-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;European-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;Others;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*****;m;Others;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;African-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;European-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;Others;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;European-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;African-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;European-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;Others;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;European-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*****;m;African-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;African-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;Others;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*****;m;Others;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*****;m;African-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;European-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;African-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;Others;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;African-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*****;m;Others;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;European-American;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;Others;[1980, 1990[;[1980, 1990[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;European-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;African-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;European-American;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;European-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;European-American;[2000, 2010[;[2000, 2010[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;European-American;*;*;*;*
+*;*;*;*****;m;Others;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*****;m;African-American;[2010, 2020[;[2010, 2020[;;*
+*;*;*;*****;m;African-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*****;m;Others;[1990, 2000[;[1990, 2000[;;*
+*;*;*;*****;m;European-American;[2020, 2030[;[2020, 2030[;;*
+*;*;*;*;*;African-American;*;*;*;*
+*;*;*;*;*;Others;*;*;*;*
+*;*;*;*;*;African-American;*;*;*;*

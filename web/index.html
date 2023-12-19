@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ArxPy Configueratin Generator</title>
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+</head>
+<body>
+    <div class="container">
+        <div class="titleSection">
+            <h1>ArxPy Configuration Generator</h1>
+        </div>
+        <div class="anonyCfgSection">
+            <h3>Anonymization Configueratin</h3>
+            <form id="anonyCfgFrm">
+                <!-- Add list boxes for each option here -->            
+                <label for="cfgNameTxt">Config Name:</label> <input type="text" id="cfgNameTxt" name="cfgNameTxt" value = D1_K3><br>
+                <p>
+                <label for="algorithm">Arx Algorithm:</label>
+                <select name="algorithm" id="algorithm">
+                    <option value="OPTIMAL">OPTIMAL</option>
+                    <option value="BEST_EFFORT_BINARY">BEST_EFFORT_BINARY</option>
+                    <option value="BEST_EFFORT_BOTTOM_UP">BEST_EFFORT_BOTTOM_UP</option>
+                    <option value="BEST_EFFORT_TOP_DOWN">BEST_EFFORT_TOP_DOWN</option>
+                    <option value="BEST_EFFORT_GENETIC">BEST_EFFORT_GENETIC</option>
+                </select>
+                <p>
+                <label for="SuppressionLimitTxt">Suppression Limit:</label> <input type="text" id="SuppressionLimitTxt" name="SuppressionLimitTxt" value="1.0"><br>
+                <p>
+                <label for="localGeneralization">Local Generalization:</label>
+                <select name="localGeneralizationSel" id="localGeneralizationSel">
+                    <option value="true">True</option>
+                    <option value="false">False</option>
+                </select>
+                <p>
+                <label for="localGeneralizationIterationsTxt">Local Generalization Iterations:</label> <input type="text" id="localGeneralizationIterationsTxt" name="localGeneralizationIterationsTxt" value="100"><br>
+                    
+                <p>
+                <label for="heuristicSearchStepLimitTxt">Heuristic Search Step Limit:</label> <input type="text" id="heuristicSearchStepLimitTxt" name="heuristicSearchStepLimitTxt" value="1000"><br>
+            
+                <div class="privacy-models-container">
+                    <p>Privacy Models
+                    <div class="form-row">
+                        <select name="privacyModelList" id="privacyModelList">
+                            <option value="KAnonymity">KAnonymity</option>
+                            <option value="LDiversity">l-Diversity</option>
+                            <option value="TCloseness">t-Closeness</option>
+                        </select>
+                        <input type="text" id="KAnonymityK" name="KAnonymityK" placeholder="Parameters">
+                        <div class="button-container">
+                            <button type="button" id="addButton">Add</button>
+                            <button type="button" id="removeButton">Remove</button>
+                        </div>
+                    </div>
+                    <textarea id="selectedItems" rows="4" cols="50" placeholder="Selected Items"></textarea>
+                </div>        
+                <p>
+                    <label for="metric">Quality Model:</label>
+                    <select name="metric" id="algometricrithm">
+                        <option value="LossMetricGEOMETRIC_MEAN">LossMetric Metric.AggregateFunction.GEOMETRIC_MEAN</option>
+                        <option value="LossMetric_SUM">LossMetric Metric.AggregateFunction.SUM</option>
+                   </select>
+                   <p>     
+                   <label for="riskMetric">Risk Model:</label>
+                   <select name="riskMetric" id="riskMetric">
+                                <option value="ReidentificationRisk1">ReidentificationRisk1</option>
+                                <option value="ReidentificationRisk2">ReidentificationRisk2</option>
+                    </select>
+                    
+                <p>
+                <button type="button" id="generateAnonyCfgBtn">Create AnonyConfig</button>
+            </form>
+        </div>
+        <div class="dataCfgSection">
+            <h3>Data Configueratin</h3>
+            <div>
+                <input type="file" id="csvFileInput" accept=".csv">
+                <button type="button" id="uploadCsvButton">Upload CSV</button>
+            </div>
+            <div>
+                <select id="csvFirstRowSelect"></select>
+
+                <p>     
+                <label for="type">Type:</label>
+                <select name="type" id="type">
+                        <option value="IDENTIFYING_ATTRIBUTE">IDENTIFYING_ATTRIBUTE</option>
+                        <option value="QUASI_IDENTIFYING_ATTRIBUTE">QUASI_IDENTIFYING_ATTRIBUTE</option>
+                        <option value="SENSITIVE_ATTRIBUTE">SENSITIVE_ATTRIBUTE</option>
+                        <option value="INSENSITIVE_ATTRIBUTE">INSENSITIVE_ATTRIBUTE</option>
+                </select>
+                <p>
+                <label for="transformation">Transformation:</label>
+                <select name="transformation" id="transformation">
+                        <option value="Generalization">Generalization</option>
+                        <option value="Generalization1">Generalization1</option>
+                </select>
+                <p>
+                    <label for="transformationFunction">Transformation Function:</label>
+                    <select name="transformationFunction" id="transformationFunction">
+                            <option value="transformationFunction">NA</option>
+                            <option value="transformationFunction1">transformationFunction1</option>
+                    </select>
+                <p>  
+                    <label for="transformationMinMax">TransformationMinMax:</label> <input type="text" id="transformationMinMax" name="transformationMinMax" value="All,All"><br>
+                <p>
+                    <label for="dataType">Data Type:</label>
+                    <select name="dataType" id="dataType">
+                            <option value="String">String</option>
+                            <option value="Integer">Integer</option>
+                            <option value="Decimal">Decimal</option>
+                            <option value="Boolean">Boolean</option>
+                            <option value="DateTime">DateTime</option>
+
+                    </select>
+                <p>  
+                    <label for="dataFormat">Data Format:</label> <input type="text" id="dataFormat" name="dataFormat" value="Default"><br>
+                <p>  
+                    <label for="weight">Weight:</label> <input type="text" id="weight" name="weight" value="0.5"><br>
+        
+                <p>
+                    <label for="targetVariable">Target Variable:</label>
+                    <select name="targetVariable" id="targetVariable">
+                            <option value="false">False</option>
+                            <option value="true">True</option>
+                    </select>
+                             
+            </div>
+
+
+            
+            <form id="dataCfgFrm">
+                <!-- Add list boxes for each option here -->
+                <!-- Example: -->
+                <p>
+                <button type="button" id="generateDataCfgBtn">Create AnonyConfig</button>
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>
+<script>
+document.getElementById('uploadCsvButton').addEventListener('click', function() {
+    const fileInput = document.getElementById('csvFileInput');
+    const file = fileInput.files[0];
+
+    if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            const text = e.target.result;
+            populateSelectWithCsvFirstRow(text);
+        };
+        reader.readAsText(file);
+    } else {
+        alert('Please select a CSV file to upload.');
+    }
+});
+
+function populateSelectWithCsvFirstRow(csvText) {
+    const rows = csvText.split('\n');
+    const firstRow = rows[0].split(';');
+
+    const select = document.getElementById('csvFirstRowSelect');
+    select.innerHTML = ''; // Clear previous options
+
+    firstRow.forEach(function(item) {
+        const option = document.createElement('option');
+        option.value = item;
+        option.textContent = item;
+        select.appendChild(option);
+    });
+}    
+document.getElementById('generateBtn1').addEventListener('click', function() {
+    // Collect values from form 1 and build the config object
+    let configObject1 = {
+        // Populate this object based on form values
+        // Example: algorithm: document.getElementById('algorithm').value
+    };
+    downloadConfig(configObject1, 'config1.json');
+});
+
+document.getElementById('generateBtn2').addEventListener('click', function() {
+    // Collect values from form 2 and build the config object
+    let configObject2 = {
+        // Populate this object based on form values
+    };
+    downloadConfig(configObject2, 'config2.json');
+});
+
+function downloadConfig(config, filename) {
+    const jsonStr = JSON.stringify(config, null, 2);
+    const blob = new Blob([jsonStr], {type: "application/json"});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    a.click();
+    URL.revokeObjectURL(url);
+}
+</script>
+<style>
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.titleSection {
+    background-color: #48c0489d; /* Light grey */
+    padding: 20px;
+    text-align: center;
+}
+
+.anonyCfgSection {
+    background-color: #ddbd86; /* Light blue */
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.dataCfgSection {
+    background-color: rgb(236, 234, 93); /* Light green */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+}
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-bottom: 4px solid #3e8e41; /* Darker shade for 3D effect */
+    cursor: pointer;
+    outline: none;
+}
+select {
+    width: 250px; /* Adjust as needed */
+}
+#configOutput {
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.privacy-models-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.form-row select, .form-row input {
+    margin-right: 10px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.button-container button {
+    margin-bottom: 5px;
+}
+</style>

@@ -1,0 +1,23 @@
+ - Time needed: 802.27s 
+ - Information loss:  
+2987000.521951068 / 2987000.521951068 
+ - Optimal generalization 
+   * zipCode  : 1/2 
+   * race     : 1/1 
+   * sex      : 1/1 
+   * deathDate: 0/2 
+   * CBC:g/dL : 2/2 
+   * RC:%     : 2/2 
+   * state    : 0/2 
+   * diagDate : 1/2 
+   * birthDate: 0/2 
+   * age      : 0/4 
+ - Statistics 
+EquivalenceClassStatistics {
+- Average equivalence class size = 13.418759018759019
+- Maximal equivalence class size = 57
+- Minimal equivalence class size = 5
+- Number of equivalence classes = 6930
+- Number of records = 92992
+- Number of suppressed records = 7411
+}

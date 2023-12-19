@@ -1,0 +1,34 @@
+  Equivalence classes:
+     - Average size: 24.0
+     - Num classes : 4.0
+     - Histogram   :
+        [Size: 18, count: 1]
+        [Size: 22, count: 1]
+        [Size: 27, count: 1]
+        [Size: 29, count: 1]
+ * Risk estimates:
+   - Sample-based measures
+       + Average risk     : 0.0416666666667
+       + Lowest risk      : 0.0344827586207
+       + Tuples affected  : 0.302083333333
+       + Highest risk     : 0.0555555555556
+       + Tuples affected  : 0.1875
+     + Max Risk Prosecutor: 0.0555555555556
+     + Max Risk Journalist: 0.0555555555556
+     + Max Risk Marketer  : 0.0416666666667
+       + MaxClassSize     : 29
+       + AverageClassSize : 24.0
+       + MinClassSize     : 18
+       + SuppressedRecords: 104
+       + Ambiguity          : 0.479998489091
+       + AECS               : 0.884422110553
+       + Discernibility     : 0.422663316583
+       + Granularity        : 0.288895547398
+       + MSE                : 0.458385221906
+       + Attribute-level SE : 0.000249423891907
+       + Non-Uniform Entropy: 0.139691135467
+       + Precision          : 0.175
+       + Record-level SE    : 0.458385221906
+       + Sample uniqueness: 0.0
+     - Population-based measures
+       + Population unqiueness (Zayatz): 0.0

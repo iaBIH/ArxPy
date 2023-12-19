@@ -1,0 +1,146 @@
+  Equivalence classes:
+     - Average size: 100.82527881
+     - Num classes : 269.0
+     - Histogram   :
+        [Size: 11, count: 12]
+        [Size: 12, count: 15]
+        [Size: 13, count: 9]
+        [Size: 14, count: 12]
+        [Size: 15, count: 13]
+        [Size: 16, count: 9]
+        [Size: 17, count: 5]
+        [Size: 18, count: 7]
+        [Size: 19, count: 8]
+        [Size: 20, count: 6]
+        [Size: 21, count: 10]
+        [Size: 22, count: 3]
+        [Size: 23, count: 3]
+        [Size: 24, count: 4]
+        [Size: 25, count: 1]
+        [Size: 26, count: 3]
+        [Size: 27, count: 4]
+        [Size: 28, count: 2]
+        [Size: 29, count: 5]
+        [Size: 30, count: 6]
+        [Size: 31, count: 4]
+        [Size: 32, count: 5]
+        [Size: 33, count: 1]
+        [Size: 34, count: 3]
+        [Size: 35, count: 1]
+        [Size: 36, count: 2]
+        [Size: 37, count: 3]
+        [Size: 38, count: 1]
+        [Size: 40, count: 1]
+        [Size: 41, count: 4]
+        [Size: 43, count: 1]
+        [Size: 44, count: 3]
+        [Size: 45, count: 1]
+        [Size: 47, count: 1]
+        [Size: 48, count: 1]
+        [Size: 49, count: 3]
+        [Size: 50, count: 1]
+        [Size: 51, count: 1]
+        [Size: 52, count: 1]
+        [Size: 55, count: 3]
+        [Size: 58, count: 3]
+        [Size: 59, count: 4]
+        [Size: 62, count: 1]
+        [Size: 65, count: 1]
+        [Size: 66, count: 1]
+        [Size: 67, count: 3]
+        [Size: 70, count: 1]
+        [Size: 72, count: 2]
+        [Size: 74, count: 2]
+        [Size: 78, count: 1]
+        [Size: 79, count: 1]
+        [Size: 84, count: 1]
+        [Size: 86, count: 2]
+        [Size: 88, count: 1]
+        [Size: 89, count: 1]
+        [Size: 90, count: 1]
+        [Size: 91, count: 2]
+        [Size: 94, count: 2]
+        [Size: 96, count: 1]
+        [Size: 97, count: 1]
+        [Size: 99, count: 1]
+        [Size: 104, count: 1]
+        [Size: 105, count: 2]
+        [Size: 107, count: 1]
+        [Size: 114, count: 1]
+        [Size: 118, count: 1]
+        [Size: 119, count: 1]
+        [Size: 127, count: 1]
+        [Size: 129, count: 1]
+        [Size: 130, count: 1]
+        [Size: 131, count: 1]
+        [Size: 133, count: 1]
+        [Size: 139, count: 1]
+        [Size: 141, count: 1]
+        [Size: 142, count: 1]
+        [Size: 145, count: 1]
+        [Size: 146, count: 1]
+        [Size: 147, count: 1]
+        [Size: 148, count: 2]
+        [Size: 149, count: 1]
+        [Size: 152, count: 1]
+        [Size: 155, count: 1]
+        [Size: 156, count: 1]
+        [Size: 161, count: 1]
+        [Size: 168, count: 1]
+        [Size: 176, count: 1]
+        [Size: 183, count: 1]
+        [Size: 190, count: 2]
+        [Size: 206, count: 1]
+        [Size: 207, count: 1]
+        [Size: 217, count: 1]
+        [Size: 232, count: 1]
+        [Size: 257, count: 1]
+        [Size: 264, count: 1]
+        [Size: 287, count: 1]
+        [Size: 305, count: 1]
+        [Size: 331, count: 1]
+        [Size: 348, count: 1]
+        [Size: 376, count: 1]
+        [Size: 419, count: 1]
+        [Size: 447, count: 1]
+        [Size: 497, count: 1]
+        [Size: 553, count: 1]
+        [Size: 579, count: 1]
+        [Size: 684, count: 1]
+        [Size: 719, count: 1]
+        [Size: 737, count: 1]
+        [Size: 744, count: 1]
+        [Size: 814, count: 1]
+        [Size: 837, count: 1]
+        [Size: 877, count: 1]
+        [Size: 903, count: 1]
+        [Size: 998, count: 1]
+        [Size: 1000, count: 1]
+        [Size: 1059, count: 1]
+        [Size: 1348, count: 1]
+ * Risk estimates:
+   - Sample-based measures
+       + Average risk     : 0.00991814762923
+       + Lowest risk      : 0.000741839762611
+       + Tuples affected  : 0.049701349458
+       + Highest risk     : 0.0909090909091
+       + Tuples affected  : 0.00486689772141
+     + Max Risk Prosecutor: 0.0909090909091
+     + Max Risk Journalist: 0.0909090909091
+     + Max Risk Marketer  : 0.00991814762923
+       + MaxClassSize     : 1348
+       + AverageClassSize : 100.82527881
+       + MinClassSize     : 11
+       + SuppressedRecords: 3040
+       + Ambiguity          : 0.899163351815
+       + AECS               : 0.996734152569
+       + Discernibility     : 0.885176975919
+       + Granularity        : 0.762863208317
+       + MSE                : 0.389794839039
+       + Attribute-level SE : 0.612999641398
+       + Non-Uniform Entropy: 0.458311232261
+       + Precision          : 0.646307854254
+       + Record-level SE    : 0.389794839039
+       + Sample uniqueness: 0.0
+     - Population-based measures
+       + Population unqiueness (Zayatz): 0.0

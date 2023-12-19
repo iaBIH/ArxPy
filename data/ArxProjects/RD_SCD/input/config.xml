@@ -1,0 +1,13 @@
+<config>
+	<suppressTuplesInNonAnonymousOutput>true</suppressTuplesInNonAnonymousOutput>
+	<suppressedAttributeTypes>
+		<type>QUASI_IDENTIFYING_ATTRIBUTE</type>
+	</suppressedAttributeTypes>
+	<practicalMonotonicity>false</practicalMonotonicity>
+	<relativeMaxOutliers>0.0</relativeMaxOutliers>
+	<metric>Loss (0.5/1.0/1.0)</metric>
+	<attributeWeights>
+	</attributeWeights>
+	<criteria>
+	</criteria>
+</config>

@@ -1,0 +1,21 @@
+ - Time needed: 4.27s 
+ - Information loss:  
+0.21176707834841357 / 0.21176707834841357 
+ - Optimal generalization 
+   * workclass     : 1/2 
+   * occupation    : 1/2 
+   * salary-class  : 0/1 
+   * race          : 0/1 
+   * native-country: 1/2 
+   * sex           : 0/1 
+   * marital-status: 0/2 
+   * age           : 3/4 
+ - Statistics 
+EquivalenceClassStatistics {
+- Average equivalence class size = 100.82527881040892
+- Maximal equivalence class size = 1348
+- Minimal equivalence class size = 11
+- Number of equivalence classes = 269
+- Number of records = 27122
+- Number of suppressed records = 3040
+}

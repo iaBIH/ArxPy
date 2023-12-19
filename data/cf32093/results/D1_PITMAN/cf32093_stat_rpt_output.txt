@@ -1,0 +1,52 @@
+  Statistics :
+       Summary: {u'zipCode': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=21479
+ - mode=13108
+], u'race': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=3
+ - mode=European-American
+], u'sex': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=2
+ - mode=m
+], u'deathDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=186
+ - mode=
+], u'state': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=51
+ - mode=California
+], u'idx': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=0
+ - distinctNumberOfValues=0
+ - mode=NULL
+], u'diagDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=11
+ - mode=[1990, 2000[
+], u'birthDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=11
+ - mode=[1990, 2000[
+], u'age': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=19
+ - mode=0-4
+], u'Ch:mmol/L': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=32093
+ - distinctNumberOfValues=4
+ - mode=[40, 80[
+]}

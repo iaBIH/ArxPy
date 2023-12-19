@@ -1,0 +1,17 @@
+  Equivalence classes:
+     - Average size: 1.0042067829
+     - Num classes : 46116.0
+     - Histogram   :
+        [Size: 1, count: 45923]
+        [Size: 2, count: 192]
+        [Size: 3, count: 1]
+   * Risk estimates:
+     - Sample-based measures
+       + Average risk     : 0.995810839991
+       + Lowest risk      : 0.333333333333
+       + Tuples affected  : 6.47808248758e-05
+       + Highest risk     : 1.0
+       + Tuples affected  : 0.991643273591
+       + Sample uniqueness: 0.991643273591
+     - Population-based measures
+       + Population unqiueness (Zayatz): 0.98335759093

@@ -1,0 +1,52 @@
+  Statistics :
+       Summary: {u'zipCode': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=200
+ - mode=01201
+], u'CK:unit/L': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=200
+ - mode=10014.995
+], u'race': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=3
+ - mode=European-American
+], u'sex': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=2
+ - mode=m
+], u'deathDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=115
+ - mode=
+], u'state': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=43
+ - mode=Texas
+], u'idx': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=200
+ - mode=10013
+], u'diagDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=199
+ - mode=2022-01-05
+], u'birthDate': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=151
+ - mode=2018-01-02
+], u'age': StatisticsSummary [
+ - scale=Nominal scale
+ - numberOfMeasures=200
+ - distinctNumberOfValues=78
+ - mode=5
+]}

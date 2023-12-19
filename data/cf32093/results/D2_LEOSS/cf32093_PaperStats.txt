@@ -1,0 +1,78 @@
+age_stats_gender   --------------------------
+     min  max  median       mean
+sex                             
+f      0   95    38.0  39.020201
+m      0   95    38.0  38.832411
+     min   max  median       mean
+sex                              
+*    NaN   NaN     NaN        NaN
+f    0.0  88.0    38.0  38.337241
+m    0.0  89.0    37.0  38.246518
+age_stats_overall   --------------------------
+min        0.000000
+max       95.000000
+median    38.000000
+mean      38.921914
+Name: age, dtype: float64
+min        0.00000
+max       89.00000
+median    37.00000
+mean      38.28972
+Name: age, dtype: float64
+age_stats_race   --------------------------
+                   min  max  median       mean
+race                                          
+African-American     0   92    36.0  37.604472
+European-American    0   95    38.0  38.972449
+Others               0   95    38.0  39.071382
+                   min   max  median       mean
+race                                           
+African-American   0.0  89.0    35.0  37.061864
+European-American  0.0  89.0    38.0  38.348767
+Others             0.0  88.0    37.0  38.203593
+sex_percentage   --------------------------
+m    52.338516
+f    47.661484
+Name: sex, dtype: float64
+m    51.456704
+f    46.779672
+*     1.763624
+Name: sex, dtype: float64
+race_percentage   --------------------------
+European-American    91.15695
+Others                4.80167
+African-American      4.04138
+Name: race, dtype: float64
+European-American    91.15695
+Others                4.80167
+African-American      4.04138
+Name: race, dtype: float64
+clinical_stats   --------------------------
+             zipCode   Ch:mmol/L
+min       213.000000   30.125000
+max     99928.000000  118.552000
+median  48768.000000   74.211000
+mean    52152.538248   74.193408
+             age
+min      0.00000
+max     89.00000
+median  37.00000
+mean    38.28972
+alive_dead_percentage   --------------------------
+False    99.417318
+True      0.582682
+Name: deathDate, dtype: float64
+False    100.0
+Name: deathDate, dtype: float64
+lowest_highest_diag   --------------------------
+[(1920, 2), (1993, 453)]
+[(1934.0, 11), (1993.0, 453)]
+lowest_highest_death   --------------------------
+[(1973.0, 1), (1990.0, 8)]
+[]
+min_max_state   --------------------------
+[('Alaska', 73), ('California', 3828)]
+[('*', 566), ('NorthOrSouth', 17548)]
+min_max_zipcode   --------------------------
+[(19036, 1), (95448, 7)]
+[('*', 566), ('*****', 31527)]

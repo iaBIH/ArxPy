@@ -1,0 +1,201 @@
+idx;age;state;zipCode;sex;race;birthDate;diagDate;deathDate;Ch:mmol/L
+12361.0;59.0;Kansas;66874.0;f;European-American;1962-01-16;1962-01-19;;72.24
+2335.0;20.0;California;93247.0;m;African-American;2007-01-05;2007-01-07;;47.791
+10634.0;54.0;Illinois;62660.0;f;European-American;1965-01-15;1965-01-17;;68.515
+8695.0;1.0;Georgia;30815.0;m;European-American;2018-01-02;2018-01-05;;85.314
+26579.0;5.0;Texas;75851.0;m;Others;2019-01-02;2019-01-05;;76.648
+25953.0;15.0;Tennessee;37230.0;f;European-American;2005-01-05;2005-01-08;;37.505
+9167.0;50.0;Georgia;31038.0;m;European-American;1967-01-15;1967-01-17;;51.578
+18139.0;36.0;New Jersey;8055.0;m;European-American;1990-01-09;1990-01-12;;89.212
+24676.0;57.0;Pennsylvania;19367.0;f;European-American;1970-01-14;1970-01-16;;76.37
+6385.0;32.0;District of Columbia;20035.0;m;European-American;1993-01-08;1993-01-11;;49.708
+19241.0;7.0;New York;11780.0;m;European-American;2015-01-03;2015-01-05;;95.608
+13109.0;53.0;Louisiana;71304.0;m;European-American;1968-01-15;1968-01-17;;87.151
+20246.0;57.0;New York;13155.0;m;European-American;1967-01-15;1967-01-18;;105.963
+23423.0;61.0;Oklahoma;73164.0;f;European-American;1961-01-16;1961-01-18;;68.638
+10042.0;6.0;Illinois;61324.0;f;European-American;2011-01-04;2011-01-07;;69.031
+11164.0;9.0;Indiana;46119.0;f;European-American;2011-01-04;2011-01-07;;37.514
+13705.0;36.0;Maryland;21768.0;m;European-American;1985-01-10;1985-01-13;;51.123
+30193.0;52.0;Virginia;22522.0;m;European-American;1970-01-14;1970-01-17;;72.974
+20303.0;54.0;New York;12088.0;m;European-American;1972-01-14;1972-01-16;;71.851
+28755.0;52.0;Texas;78411.0;m;European-American;1970-01-14;1970-01-17;;86.529
+8738.0;13.0;Georgia;31414.0;f;European-American;2008-01-05;2008-01-08;;97.494
+2818.0;40.0;California;92149.0;f;European-American;1991-01-09;1991-01-12;;45.286
+11643.0;73.0;Indiana;46537.0;f;European-American;1950-01-19;1950-01-22;;74.862
+21568.0;58.0;North Carolina;28512.0;m;European-American;1966-01-15;1966-01-17;;65.6
+6637.0;7.0;Florida;32227.0;f;European-American;2014-01-03;2014-01-06;;60.687
+17276.0;36.0;Nebraska;68532.0;m;European-American;1987-01-10;1987-01-12;;70.099
+20165.0;58.0;New York;13141.0;f;European-American;1964-01-16;1964-01-18;;74.002
+10998.0;65.0;Illinois;62802.0;m;European-American;1959-01-17;1959-01-20;;61.107
+20075.0;44.0;New York;12298.0;f;European-American;1982-01-11;1982-01-14;;82.044
+7437.0;47.0;Florida;33497.0;m;European-American;1977-01-12;1977-01-14;;95.881
+28763.0;48.0;Texas;79096.0;m;European-American;1971-01-14;1971-01-16;;110.228
+23673.0;39.0;Oregon;97458.0;m;European-American;1987-01-10;1987-01-12;;39.969
+3017.0;43.0;California;93776.0;f;European-American;1985-01-10;1985-01-12;;78.104
+24317.0;35.0;Pennsylvania;16752.0;m;Others;1984-01-11;1984-01-14;;77.199
+3841.0;58.0;California;93902.0;m;Others;1964-01-16;1964-01-19;;69.527
+1618.0;5.0;California;92144.0;m;European-American;2020-01-02;2020-01-04;;57.427
+15647.0;70.0;Michigan;48736.0;f;European-American;1954-01-18;1954-01-21;;40.669
+14991.0;34.0;Michigan;48047.0;f;European-American;1984-01-11;1984-01-13;;79.258
+19448.0;26.0;New York;14641.0;f;European-American;2000-01-07;2000-01-09;;82.734
+3579.0;38.0;California;94946.0;m;European-American;1992-01-09;1992-01-11;;55.246
+24097.0;9.0;Pennsylvania;18816.0;m;European-American;2015-01-03;2015-01-06;;50.035
+18334.0;51.0;New Jersey;8533.0;m;European-American;1975-01-13;1975-01-16;;99.307
+28334.0;46.0;Texas;88581.0;m;European-American;1973-01-13;1973-01-16;;65.201
+10525.0;49.0;Illinois;61521.0;m;European-American;1975-01-13;1975-01-15;;52.071
+6204.0;63.0;Connecticut;6452.0;f;Others;1962-01-16;1962-01-19;;90.281
+3736.0;55.0;California;93453.0;m;European-American;1967-01-15;1967-01-17;;89.206
+4279.0;52.0;California;96112.0;f;European-American;1965-01-15;1965-01-17;;76.018
+11096.0;78.0;Illinois;62910.0;m;European-American;1937-01-22;1937-01-25;;41.629
+29143.0;67.0;Texas;76253.0;m;European-American;1959-01-17;1959-01-19;;89.27
+25643.0;83.0;South Carolina;29686.0;f;European-American;1943-01-21;1943-01-23;;49.016
+7426.0;46.0;Florida;34944.0;m;European-American;1978-01-12;1978-01-14;;66.466
+7988.0;65.0;Florida;33609.0;f;European-American;1953-01-18;1953-01-20;;60.191
+29057.0;61.0;Texas;77566.0;m;European-American;1960-01-17;1960-01-20;;87.383
+17366.0;67.0;Nebraska;68837.0;m;European-American;1954-01-18;1954-01-20;;71.999
+21162.0;23.0;North Carolina;27352.0;f;European-American;2001-01-06;2001-01-08;;62.74
+19540.0;25.0;New York;14643.0;m;European-American;1996-01-08;1996-01-11;;50.932
+25907.0;10.0;Tennessee;38049.0;m;European-American;2015-01-03;2015-01-06;;77.61
+3057.0;26.0;California;95977.0;m;European-American;1992-01-09;1992-01-11;;62.287
+6019.0;21.0;Connecticut;6032.0;m;European-American;1999-01-07;1999-01-09;;83.357
+28695.0;40.0;Texas;77228.0;m;European-American;1982-01-11;1982-01-13;;68.297
+10994.0;79.0;Illinois;60184.0;f;European-American;1945-01-20;1945-01-23;;45.745
+22950.0;77.0;Ohio;43328.0;m;European-American;1944-01-21;1944-01-23;;72.246
+11161.0;6.0;Indiana;47598.0;m;European-American;2013-01-03;2013-01-05;;86.186
+10013.0;10.0;Illinois;62533.0;m;European-American;2012-01-04;2012-01-07;;72.825
+27513.0;30.0;Texas;77434.0;m;European-American;1994-01-08;1994-01-11;;59.596
+24576.0;44.0;Pennsylvania;19029.0;m;European-American;1977-01-12;1977-01-14;;70.915
+1944.0;9.0;California;92660.0;f;European-American;2010-01-04;2010-01-07;;81.611
+17266.0;28.0;Nebraska;68048.0;m;European-American;1995-01-08;1995-01-11;;48.069
+23599.0;18.0;Oregon;97720.0;m;European-American;2000-01-07;2000-01-10;;78.219
+6149.0;55.0;Connecticut;6756.0;m;European-American;1967-01-15;1967-01-17;;49.86
+17421.0;13.0;Nevada;89112.0;f;European-American;2010-01-04;2010-01-07;;90.666
+11503.0;43.0;Indiana;46037.0;f;European-American;1981-01-11;1981-01-13;;95.342
+12105.0;4.0;Kansas;66936.0;m;European-American;2017-01-02;2017-01-05;;88.325
+28722.0;48.0;Texas;79834.0;m;European-American;1978-01-12;1978-01-15;;101.671
+8729.0;15.0;Georgia;30754.0;f;European-American;2007-01-05;2007-01-07;;30.379
+15108.0;30.0;Michigan;49958.0;m;European-American;1993-01-08;1993-01-11;;87.069
+9660.0;45.0;Hawaii;96844.0;m;European-American;1977-01-12;1977-01-14;;84.456
+5358.0;87.0;California;92273.0;m;European-American;1939-01-22;1939-01-24;;76.538
+2202.0;4.0;California;95010.0;m;European-American;2016-01-03;2016-01-06;;76.591
+18221.0;23.0;New Jersey;8764.0;m;European-American;1993-01-08;1993-01-11;;109.508
+27840.0;38.0;Texas;77207.0;m;European-American;1985-01-10;1985-01-13;;76.954
+20788.0;85.0;New York;13580.0;f;European-American;1936-01-23;1936-01-26;;68.619
+26751.0;16.0;Texas;75074.0;m;European-American;2012-01-04;2012-01-06;;56.428
+26764.0;14.0;Texas;77052.0;m;European-American;2013-01-03;2013-01-06;;63.704
+27586.0;26.0;Texas;75158.0;f;European-American;1995-01-08;1995-01-10;;102.377
+15173.0;48.0;Michigan;49288.0;m;European-American;1974-01-13;1974-01-16;;106.907
+14551.0;80.0;Massachusetts;1933.0;m;European-American;1939-01-22;1939-01-25;;92.526
+3463.0;20.0;California;95011.0;m;European-American;1996-01-08;1996-01-11;;67.38
+14084.0;7.0;Massachusetts;2542.0;f;European-American;2013-01-03;2013-01-06;;59.617
+12712.0;59.0;Kentucky;42762.0;f;European-American;1969-01-14;1969-01-17;;71.502
+23382.0;44.0;Oklahoma;74003.0;m;European-American;1975-01-13;1975-01-16;;75.71
+21538.0;61.0;North Carolina;27588.0;f;European-American;1965-01-15;1965-01-17;;73.239
+19277.0;16.0;New York;12964.0;m;European-American;2005-01-05;2005-01-08;;80.699
+15230.0;58.0;Michigan;48367.0;f;European-American;1963-01-16;1963-01-19;;75.862
+22784.0;55.0;Ohio;43086.0;f;European-American;1972-01-14;1972-01-16;;49.765
+2808.0;29.0;California;95115.0;f;European-American;1993-01-08;1993-01-10;;105.547
+23194.0;16.0;Oklahoma;74118.0;m;European-American;2007-01-05;2007-01-07;;46.394
+5818.0;62.0;Colorado;80867.0;f;European-American;1964-01-16;1964-01-18;;82.274
+24856.0;69.0;Pennsylvania;19053.0;m;European-American;1955-01-18;1955-01-21;;65.233
+20942.0;6.0;North Carolina;27043.0;m;European-American;2019-01-02;2019-01-04;;75.071
+5094.0;82.0;California;95981.0;m;European-American;1936-01-23;1936-01-25;;70.018
+9263.0;52.0;Georgia;30123.0;f;European-American;1967-01-15;1967-01-18;;84.692
+31560.0;18.0;Wisconsin;53292.0;f;European-American;2004-01-06;2004-01-08;;100.004
+3881.0;50.0;California;90698.0;f;European-American;1972-01-14;1972-01-16;;71.403
+24855.0;69.0;Pennsylvania;15864.0;m;European-American;1949-01-19;1949-01-22;;83.588
+2445.0;16.0;California;90041.0;f;European-American;2008-01-05;2008-01-07;;61.615
+26188.0;50.0;Tennessee;37057.0;m;European-American;1977-01-12;1977-01-14;;75.174
+26782.0;8.0;Texas;75663.0;m;European-American;2015-01-03;2015-01-05;;45.35
+26436.0;63.0;Tennessee;37159.0;m;European-American;1959-01-17;1959-01-20;;71.554
+24187.0;16.0;Pennsylvania;19442.0;f;European-American;2004-01-06;2004-01-08;;75.678
+2692.0;20.0;California;91350.0;m;European-American;2001-01-06;2001-01-08;;93.508
+7137.0;29.0;Florida;33920.0;m;European-American;1989-01-09;1989-01-11;;96.589
+20813.0;66.0;New York;12186.0;f;Others;1962-01-16;1962-01-19;;93.923
+14638.0;87.0;Massachusetts;2351.0;f;European-American;1941-01-21;1941-01-24;;91.531
+15542.0;92.0;Michigan;49078.0;m;European-American;1935-01-23;1935-01-26;;61.889
+16806.0;22.0;Missouri;64502.0;f;African-American;1997-01-07;1997-01-10;;77.517
+18671.0;68.0;New Jersey;8535.0;m;European-American;1955-01-18;1955-01-20;;74.142
+10994.0;79.0;Illinois;60051.0;m;European-American;1947-01-20;1947-01-23;;83.306
+25624.0;53.0;South Carolina;29332.0;f;European-American;1974-01-13;1974-01-15;;71.641
+25670.0;52.0;South Carolina;29265.0;m;Others;1962-01-16;1962-01-18;;66.647
+25104.0;65.0;Pennsylvania;16002.0;f;European-American;1956-01-18;1956-01-20;;72.106
+31204.0;73.0;Washington;98582.0;f;European-American;1947-01-20;1947-01-22;;76.717
+20091.0;56.0;New York;13834.0;f;European-American;1967-01-15;1967-01-17;;61.332
+21731.0;60.0;North Carolina;28657.0;f;European-American;1959-01-17;1959-01-20;;77.476
+7430.0;59.0;Florida;32081.0;f;European-American;1963-01-16;1963-01-18;;53.524
+18288.0;60.0;New Jersey;7308.0;f;European-American;1964-01-16;1964-01-19;;59.741
+28663.0;51.0;Texas;77619.0;m;European-American;1969-01-14;1969-01-17;;72.978
+25152.0;65.0;Pennsylvania;15219.0;f;European-American;1952-01-19;1952-01-22;;88.575
+4812.0;69.0;California;93393.0;m;European-American;1954-01-18;1954-01-21;;78.861
+7614.0;56.0;Florida;33883.0;m;European-American;1969-01-14;1969-01-17;;70.733
+5684.0;42.0;Colorado;81070.0;m;European-American;1974-01-13;1974-01-15;;89.341
+23618.0;33.0;Oregon;97629.0;f;European-American;1990-01-09;1990-01-12;;50.762
+16352.0;38.0;Mississippi;39557.0;m;European-American;1986-01-10;1986-01-12;;67.744
+11801.0;4.0;Iowa;50072.0;f;European-American;2016-01-03;2016-01-05;;78.484
+10495.0;36.0;Illinois;60100.0;f;European-American;1984-01-11;1984-01-14;;76.438
+1847.0;14.0;California;90032.0;f;European-American;2010-01-04;2010-01-06;;67.06
+31563.0;16.0;Wisconsin;53729.0;m;European-American;2006-01-05;2006-01-07;;96.263
+24330.0;26.0;Pennsylvania;18707.0;m;European-American;1996-01-08;1996-01-10;;75.075
+16216.0;0.0;Mississippi;38874.0;m;European-American;2023-01-01;2023-01-04;;52.189
+21283.0;33.0;North Carolina;27436.0;m;European-American;1990-01-09;1990-01-12;;59.233
+26154.0;31.0;Tennessee;38237.0;m;European-American;1988-01-10;1988-01-13;;71.099
+11914.0;38.0;Iowa;50636.0;f;European-American;1985-01-10;1985-01-12;;82.422
+29981.0;31.0;Virginia;24038.0;f;European-American;1994-01-08;1994-01-10;;47.798
+6274.0;6.0;Delaware;19946.0;m;European-American;2013-01-03;2013-01-05;;75.858
+8557.0;4.0;Georgia;30720.0;m;European-American;2019-01-02;2019-01-05;;105.224
+909.0;28.0;Arizona;85319.0;m;European-American;1996-01-08;1996-01-11;;86.701
+19283.0;14.0;New York;13221.0;m;European-American;2007-01-05;2007-01-07;;59.76
+4902.0;70.0;California;92034.0;f;European-American;1950-01-19;1950-01-21;;85.938
+9170.0;54.0;Georgia;30115.0;m;European-American;1971-01-14;1971-01-16;;66.926
+13486.0;10.0;Maryland;21500.0;m;European-American;2013-01-03;2013-01-05;;72.383
+24417.0;32.0;Pennsylvania;19538.0;f;Others;1986-01-10;1986-01-12;;69.417
+26103.0;31.0;Tennessee;38315.0;m;European-American;1993-01-08;1993-01-11;;93.817
+31772.0;40.0;Wisconsin;53740.0;f;European-American;1983-01-11;1983-01-13;;60.408
+2240.0;7.0;California;92547.0;f;European-American;2012-01-04;2012-01-07;;51.31
+16138.0;82.0;Minnesota;55108.0;m;European-American;1941-01-21;1941-01-23;;113.438
+15865.0;38.0;Minnesota;55769.0;m;European-American;1991-01-09;1991-01-11;;83.089
+9773.0;27.0;Idaho;83349.0;m;European-American;1996-01-08;1996-01-11;;76.616
+24614.0;54.0;Pennsylvania;19511.0;m;European-American;1969-01-14;1969-01-16;;80.851
+29491.0;24.0;Utah;84048.0;f;European-American;1997-01-07;1997-01-10;;51.897
+27214.0;20.0;Texas;77004.0;f;European-American;2006-01-05;2006-01-08;;80.948
+29803.0;4.0;Virginia;24026.0;m;European-American;2017-01-02;2017-01-05;;59.822
+9871.0;-6.0;Illinois;62357.0;m;African-American;2023-01-01;2023-01-04;;80.78
+1567.0;-2.0;California;94043.0;f;European-American;2022-01-01;2022-01-03;;91.802
+21190.0;23.0;North Carolina;27824.0;f;European-American;2001-01-06;2001-01-08;;73.023
+4763.0;79.0;California;95465.0;m;European-American;1946-01-20;1946-01-23;;62.159
+31424.0;64.0;West Virginia;24841.0;m;European-American;1959-01-17;1959-01-19;;85.486
+17861.0;3.0;New Jersey;7542.0;m;European-American;2019-01-02;2019-01-05;;83.1
+22873.0;55.0;Ohio;43358.0;f;European-American;1961-01-16;1961-01-19;;67.643
+27168.0;23.0;Texas;88580.0;m;European-American;2004-01-06;2004-01-09;;84.639
+9477.0;64.0;Georgia;30442.0;m;European-American;1958-01-17;1958-01-20;;64.809
+4353.0;55.0;California;94950.0;f;European-American;1965-01-15;1965-01-18;;83.606
+19489.0;23.0;New York;13065.0;f;European-American;2002-01-06;2002-01-08;;94.192
+4055.0;49.0;California;91310.0;f;European-American;1976-01-13;1976-01-15;;76.678
+29728.0;3.0;Virginia;24038.0;m;European-American;2019-01-02;2019-01-04;;55.91
+4888.0;58.0;California;94102.0;f;European-American;1959-01-17;1959-01-19;;64.385
+26845.0;8.0;Texas;75011.0;f;European-American;2018-01-02;2018-01-05;;53.824
+6095.0;37.0;Connecticut;6126.0;f;European-American;1985-01-10;1985-01-12;;93.986
+24410.0;39.0;Pennsylvania;18429.0;m;European-American;1988-01-10;1988-01-12;;56.248
+29541.0;44.0;Utah;84766.0;f;European-American;1980-01-12;1980-01-15;;100.71
+28267.0;45.0;Texas;75670.0;f;European-American;1980-01-12;1980-01-15;;96.997
+27637.0;23.0;Texas;79781.0;m;European-American;1996-01-08;1996-01-11;;90.187
+30854.0;23.0;Washington;99154.0;m;European-American;1995-01-08;1995-01-11;;71.638
+26618.0;3.0;Texas;77012.0;m;European-American;2023-01-01;2023-01-03;;98.249
+6853.0;21.0;Florida;32539.0;f;European-American;2004-01-06;2004-01-08;;85.25
+7490.0;55.0;Florida;32715.0;m;European-American;1963-01-16;1963-01-19;;103.023
+3631.0;48.0;California;92272.0;f;European-American;1979-01-12;1979-01-15;;71.956
+29529.0;47.0;Utah;84738.0;f;European-American;1920-02-07;1920-02-09;1969-01-25;81.732
+23313.0;37.0;Oklahoma;74055.0;m;European-American;1984-01-11;1984-01-14;;97.854
+24772.0;54.0;Pennsylvania;17841.0;f;European-American;1971-01-14;1971-01-16;;59.164
+17299.0;50.0;Nebraska;69164.0;m;European-American;1975-01-13;1975-01-15;;76.756
+20886.0;-0.0;North Carolina;28636.0;f;European-American;2023-01-01;2023-01-04;;82.126
+31900.0;64.0;Wisconsin;54634.0;m;European-American;1961-01-16;1961-01-18;;67.889
+23874.0;62.0;Oregon;97527.0;f;European-American;1959-01-17;1959-01-19;;59.173
+24073.0;3.0;Pennsylvania;16625.0;m;European-American;2018-01-02;2018-01-05;;77.296
+6959.0;27.0;Florida;32537.0;m;European-American;2000-01-07;2000-01-09;;67.113
+15012.0;28.0;Michigan;49798.0;f;European-American;1993-01-08;1993-01-10;;87.164
+14187.0;25.0;Massachusetts;2134.0;f;European-American;2002-01-06;2002-01-08;;106.258
+5941.0;3.0;Connecticut;6136.0;m;European-American;2021-01-01;2021-01-04;;57.966
+18196.0;24.0;New Jersey;7976.0;m;European-American;1995-01-08;1995-01-10;;93.38
+5992.0;12.0;Connecticut;6062.0;m;European-American;2009-01-04;2009-01-06;;91.187
